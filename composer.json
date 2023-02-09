@@ -91,7 +91,7 @@
         "sort-packages": true,
         "optimize-autoloader": true,
         "platform": {
-            "php": "8.2"
+            "php": "7.3.0"
         }
     },
     "minimum-stability": "dev",
