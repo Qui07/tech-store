@@ -242,7 +242,7 @@
 //     Route::post('business-settings', 'Api\V2\ConfigController@business_settings');
 //     //Pickup Point list
 //     Route::get('pickup-list', 'Api\V2\ShippingController@pickup_list');
-});
+// });
 
 Route::fallback(function() {
     return response()->json([
