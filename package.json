@@ -12,14 +12,18 @@
     "devDependencies": {
         "axios": "^0.27.2",
         "bootstrap": "^4.0.0",
-        "cross-env": "^5.1",
         "jquery": "^3.2",
+        "laravel-mix": "^6.0.6",
         "lodash": "^4.17.5",
         "popper.js": "^1.12",
-        "vue": "^2.5.7",
-        "laravel-mix": "^6.0.6",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.58.0",
-        "sass-loader": "^12.6.0"
+        "sass-loader": "^12.6.0",
+        "vue": "^2.5.7",
+        "vue-loader": "^15.9.8",
+        "vue-template-compiler": "^2.7.14"
+    },
+    "dependencies": {
+        "cross-env": "^7.0.3"
     }
 }
